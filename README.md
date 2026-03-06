@@ -3,7 +3,7 @@
 ![Elliott 803B Web Emulator UI](Elliott803B-Web/photos/Emulator%20Console.png)
 
 ⚡ **TL;DR: How to Run the Emulator in 30 Seconds**
-* **First, [watch this quick demo video](https://youtu.be/GqXzI-hucAI)** to see how easy it is to use!*
+* **First, [watch this quick demo video](https://youtu.be/N4QwmP84HdU)** to see how easy it is to use!*
 1. **Download or clone** this repository.
 2. Open `index.html` in **Chrome** or **Edge** (*Firefox causes problems*).
 3. **Zoom Out:** The emulator was built on a 4K display. Press `"Ctrl" + "-"` to fit it on 1080p or lower resolution screens. 
@@ -39,7 +39,7 @@ You may want the emulator to run at full screen: in Chrome and Edge, that is ach
 
 Step back into the 1960s—without the steep learning curve! 
 
-**[📽️ Watch this quick demo video](https://youtu.be/GqXzI-hucAI)** to see firsthand what the emulator can (and cannot yet) do, and discover just how approachable early computing can be. 
+**[📽️ Watch this quick demo video](https://youtu.be/N4QwmP84HdU)** to see firsthand what the emulator can (and cannot yet) do, and discover just how approachable early computing can be. 
 
 Operating a vintage mainframe might look intimidating, but **it is incredibly easy**. Our built-in, interactive **guides** literally pinpoint every single button you need to press. They hold your hand through the authentic operating procedures, empowering you to confidently run historical marvels—like Tony Hoare's original quicksort, plotter demonstrations, and vintage music programs—entirely on your own. 
 
