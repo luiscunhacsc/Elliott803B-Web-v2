@@ -1,6 +1,6 @@
 # Elliott 803B Web Emulator
 
-![Elliott 803B Web Emulator UI](Elliott803B-Web/photos/Emulator%20Console.png)
+![Elliott 803B Web Emulator UI](photos/Emulator%20Console.png)
 
 ⚡ **TL;DR: How to Run the Emulator in 30 Seconds**
 * **First, [watch this quick demo video](https://youtu.be/N4QwmP84HdU)** to see how easy it is to use!*
@@ -18,7 +18,7 @@
 ### How to run the emulator (The easiest way)
 
 1. **Download or clone** this repository to your local machine.
-2. Open the `Elliott803B-Web` folder.
+2. Open the downloaded folder.
 3. Simply double-click on the `index.html` file to open it in any modern web browser. 
 
 *Note: You do not need to install anything or run any command line tools. The emulator is built with standard web technologies (HTML, JS, and CSS) and runs entirely within your browser.*
@@ -57,13 +57,13 @@ With a single click within the interface, the full ALGOL compiler is loaded into
 
 ## The Elliott 803B: a machine from the moment computing became practical
 
-![An Elliott 803 Installation](Elliott803B-Web/photos/Image%20revealing%20the%20weight%20and%20size%20of%20a%20real%20machine.jpg)
+![An Elliott 803 Installation](photos/Image%20revealing%20the%20weight%20and%20size%20of%20a%20real%20machine.jpg)
 
 The Elliott 803B was not born in the age of sleek screens, silent chips, or consumer electronics. It belongs to an earlier and sterner chapter in the history of computing: the early 1960s, when a computer was a room-scale instrument of science, engineering, and disciplined thought. Built by **Elliott Brothers**, the 803 became one of the most successful British computers of its time, with well over 200 delivered, and it helped carry computing from specialist experimentation into everyday academic and technical use.[^1][^2]
 
 This was a **transistorised, second-generation computer**, loaded by paper tape and operated from a physical console of switches, lamps, and procedures that demanded patience and precision.[^3] 
 
-![Elliott 803 Console](Elliott803B-Web/photos/803console.jpg)
+![Elliott 803 Console](photos/803console.jpg)
 
 Its importance was not glamour but usefulness. Machines like the Elliott 803B were where programmers, engineers, and scientists learned not only how to run programs, but how to think computationally.
 
