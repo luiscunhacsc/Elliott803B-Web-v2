@@ -131,7 +131,7 @@ That is why the Elliott 803B still feels larger than its cabinets, paper tapes, 
 
 This emulator is offered in that spirit — not merely as a reconstruction of old hardware, but as a small homage to a machine that lived at the meeting point of **engineering, language, history, memory, and imagination**.
 
-To give you some context, I was born in 1973—a full decade after this computer was decommissioned. Bringing it back to life is an ongoing journey, so this project is currently in active development. We appreciate your patience as we continue to improve the experience.
+To give you some context, I was born in 1973—a full decade after this computer was decommissioned. Bringing it back to life is an ongoing journey, so this project is currently in active development. I appreciate your patience as we continue to improve the experience.
 
 If you'd like to try a fully configured virtual 803B that's all set and ready to go, complete with a small library of programs, you can visit: https://lcunha85.itch.io/elliott-803b-1959-1961
 
